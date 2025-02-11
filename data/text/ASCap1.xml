@@ -8,8 +8,12 @@
       <titleStmt>
         <title>Liber Mortuorum</title>
         <author>Various</author>
+        <respStmt xml:id="BM">
+          <resp>Original transcription:</resp>
+          <name>Baldassarre Molino</name>
+        </respStmt>
         <respStmt xml:id="BLG">
-          <resp>Transcription and XML/TEI encoding:</resp>
+          <resp>XML/TEI encoding:</resp>
           <name>Biagio Luca Guarnaccio</name>
         </respStmt>
         <respStmt xml:id="GB">
@@ -10940,6 +10944,14 @@
           <w>sepultus</w>
           <pc>.</pc>
         </ab>
+
+        <lb/>
+        <lb/>
+        <lb/>
+        <lb/>
+        <lb/>
+        <lb/>
+
         <ab hand="#x" n="12r.2.3">
           <lb n="5"/>
           <w>1708</w>
@@ -12526,6 +12538,10 @@
         </ab>
       </div>
 
+        <lb/>
+        <lb/>
+        <lb/>
+
       <div n="14v.3" type="section">
         <ab hand="#1" n="14v.3.1">
           <lb n="2"/>
@@ -12583,6 +12599,10 @@
           <pc>.</pc>
         </ab>
       </div>
+
+        <lb/>
+        <lb/>
+        <lb/>
 
       <div n="14v.4" type="section">
         <ab hand="#1" n="14v.4.1">
